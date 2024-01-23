@@ -7,3 +7,8 @@ command: /sex
 api : 3.0.0 
 
 Rate me first Pocketmine-mp plugin to upgrade Plugin :D
+
+
+
+XXX Menu
+<img src="cmain/readmescreen/xxxmenu" alt="Alt text" title="xxxmenu">
