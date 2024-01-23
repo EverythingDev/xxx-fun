@@ -13,7 +13,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 use pocketmine\utils\TextFormat as C;
 
-class Main extends PluginBase implements Listener{
+class main extends PluginBase implements Listener{
 // plugin written by AliJr
 	public function onEnable() : void{
 		$this->getLogger()->info(C::GREEN . "Plugin Sex RUNNED BY ALIJR");
