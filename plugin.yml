@@ -2,7 +2,7 @@
 name: Sex
 author: AliJr
 version: 1.0.0
-main: AliJr\Sex\Main
+main: AliJr\xxx\Main
 api: 3.0.0
 
 commands:
