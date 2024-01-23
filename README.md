@@ -6,4 +6,4 @@ command: /sex
 
 api : 3.0.0 
 
-Rate me plugin to upgrade Plugin :D
+Rate me first Pocketmine-mp plugin to upgrade Plugin :D
