@@ -11,4 +11,4 @@ Rate me first Pocketmine-mp plugin to upgrade Plugin :D
 
 
 XXX Menu
-<img src="main/readmescreen/xxxmenu" alt="Alt text" title="xxxmenu">
+<img src="main/readmescreen/xxxmenu" alt="Alt text" title="xxxmenu.jpg">
