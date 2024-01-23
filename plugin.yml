@@ -1,0 +1,13 @@
+---
+name: Sex
+author: AliJr
+version: 1.0.0
+main: AliJr\Sex\Main
+api: 3.0.0
+
+commands:
+  sex:
+    description: §c§lSex with your GirlFriend :)
+    pregnant:
+      description: Pregnant your girlfriend:)
+...
