@@ -12,3 +12,12 @@ Rate me first Pocketmine-mp plugin to upgrade Plugin :D
 
 XXX Menu
 <img src="/readmescreen/xxxmenu.jpg" alt="Alt text" title="xxxmenu">
+
+
+XXXForm
+
+<img src="/readmescreen/xxxform.jpg" alt="Alt text" title="xxxform">
+
+PregnantForm
+
+<img src="/readmescreen/pregnantform.jpg" alt="Alt text" title="pregnantform">
