@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   xxx-fun:
-    path: "main/icon.png/plugin.yml"
+    path: ""
+    icon: icon.png
 ...
