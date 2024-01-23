@@ -21,3 +21,7 @@ XXXForm
 PregnantForm
 
 <img src="/readmescreen/pregnantform.jpg" alt="Alt text" title="pregnantform">
+
+FapmMssage
+
+<img src="/readmescreen/fapmessage.jpg" alt="Alt text" title="FapMessage">
