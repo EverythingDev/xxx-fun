@@ -22,6 +22,6 @@ PregnantForm
 
 <img src="/readmescreen/pregnantform.jpg" alt="Alt text" title="pregnantform">
 
-FapMssage
+FapMessage
 
 <img src="/readmescreen/fapmessage.jpg" alt="Alt text" title="FapMessage">
